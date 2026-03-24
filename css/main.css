@@ -76,7 +76,7 @@ header {
 .logo {
   align-self: center;
   /* 로고 너비 지정 */
-  width: 65px;
+  width: 35px;
 }
 
 .logo > a > img {
